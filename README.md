@@ -26,7 +26,7 @@ native map as `ref` that just so happens to encompass the MNI brain... There
 must be a better way...
 
 #### screenshots.sh
-Make high quality publication quality images of brain surface maps. For this to
+Make publication quality images of brain surface maps. For this to
 work, you can't use the machine while it's doing the work (and each image takes
 about 30 secs to make):
 
